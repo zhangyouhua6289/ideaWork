@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ideaWork:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6cc31400-16c3-4ac1-b16e-e068dc422764" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/leetcode/LeetCode1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/threadtest/TestCyclicBarrier.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/threadtest/SemaphoreTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/util/DatabaseUtil.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/Chat.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/leetcode/LeetCode2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/BinarraySearch.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/util/SSHHelper.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/TestThread1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/BinarraySearch2.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/Sorted.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/jdkWork/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\jdkWork\apache-maven-3.3.9\conf\settingsali.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T2oWXDxMIT9lYBfvugzYlpOXvJ" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$MAVEN_REPOSITORY$" />
+    <property name="last_opened_file_path" value="D:/jdkWork/eclipse-alibaba-codestyle.xml" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.40344828" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaWork\src\test" />
+      <recent name="E:\ideaWork\src\clone" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LeetCode9">
+    <configuration name="LeetCode5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LeetCode5" />
+      <module name="ideaWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LeetCode6" />
+      <module name="ideaWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LeetCode7" />
+      <module name="ideaWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LeetCode8" />
+      <module name="ideaWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LeetCode9" />
+      <module name="StudyDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LeetCode9" />
+        <item itemvalue="Application.LeetCode8" />
+        <item itemvalue="Application.LeetCode7" />
+        <item itemvalue="Application.LeetCode6" />
+        <item itemvalue="Application.LeetCode5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cc31400-16c3-4ac1-b16e-e068dc422764" name="Default Changelist" comment="" />
+      <created>1572667582262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572667582262</updated>
+      <workItem from="1572667587287" duration="5736000" />
+      <workItem from="1572913168364" duration="14744000" />
+      <workItem from="1573001073773" duration="603000" />
+      <workItem from="1573199702525" duration="5952000" />
+      <workItem from="1573435293268" duration="10499000" />
+      <workItem from="1573516387845" duration="3612000" />
+      <workItem from="1573603471179" duration="7360000" />
+      <workItem from="1573690932198" duration="1402000" />
+      <workItem from="1573800696712" duration="4042000" />
+      <workItem from="1574041840231" duration="4467000" />
+      <workItem from="1574124384758" duration="1347000" />
+      <workItem from="1577069171639" duration="87000" />
+      <workItem from="1577069368070" duration="2964000" />
+      <workItem from="1578623011761" duration="7686000" />
+      <workItem from="1579052624887" duration="27000" />
+      <workItem from="1586225892812" duration="6935000" />
+      <workItem from="1587001484055" duration="3020000" />
+      <workItem from="1587341454493" duration="6890000" />
+      <workItem from="1587600766048" duration="1291000" />
+      <workItem from="1587689668864" duration="628000" />
+      <workItem from="1587690331147" duration="6490000" />
+      <workItem from="1587861540948" duration="1959000" />
+      <workItem from="1589256879257" duration="4376000" />
+      <workItem from="1589436670994" duration="1547000" />
+      <workItem from="1589773902626" duration="3806000" />
+      <workItem from="1589935221764" duration="4395000" />
+      <workItem from="1590466990198" duration="1146000" />
+      <workItem from="1591061079455" duration="2032000" />
+      <workItem from="1591228671157" duration="2706000" />
+      <workItem from="1591234390648" duration="400000" />
+      <workItem from="1591237950321" duration="7000" />
+      <workItem from="1591752017120" duration="3517000" />
+      <workItem from="1591938636015" duration="9109000" />
+      <workItem from="1592266958825" duration="4231000" />
+      <workItem from="1592281416896" duration="1358000" />
+      <workItem from="1592290705874" duration="598000" />
+      <workItem from="1592362531940" duration="9375000" />
+      <workItem from="1592476290343" duration="101000" />
+      <workItem from="1592524341860" duration="2296000" />
+      <workItem from="1593648563697" duration="4711000" />
+      <workItem from="1593994259376" duration="2998000" />
+      <workItem from="1594080649555" duration="11883000" />
+      <workItem from="1594619358380" duration="5219000" />
+      <workItem from="1594625073713" duration="162000" />
+      <workItem from="1594625258902" duration="512000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/TestThread.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/TestThread1.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/util/DatabaseUtil.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/springtest/SimpleAOPTest.java</url>
+          <line>5</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/clone/Car.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/BinarraySearch.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
