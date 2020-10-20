@@ -1,2 +1,13 @@
 # Default ignored files
 /workspace.xml
+# Maven #
+target/
+
+# IDEA #
+.idea/
+*.iml
+
+# Eclipse #
+.settings/
+.classpath
+.projectCopy to clipboardErrorCopied
